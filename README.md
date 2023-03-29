@@ -1,11 +1,9 @@
-### Hi, I am Kirti!
-
-## 🚀 About Me 
-
+### Hi, I am Kirti! I am a Web Developer.
+## 📩Connect with me -
 
 [![Twitter Badge](https://img.shields.io/badge/-KirtiLulle-blue?style=flat-square&logo=Twitter&logoColor=white&link=https:)](https://www.twitter.com/Kirti_Lulle)
 [![Gmail Badge](https://img.shields.io/badge/-kirtilulle@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kirtanmchandak5@gmail.com)](mailto:kirtilulle@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-kirtilulle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirtanchandak/)](https://www.linkedin.com/in/kirtan-chandak-65736b159/)
+[![Linkedin Badge](https://img.shields.io/badge/-kirtilulle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirti-lulle-aab51a23b/)](https://www.linkedin.com/in/kirti-lulle-aab51a23b/)
 
 ## ⚡ Technologies
 
